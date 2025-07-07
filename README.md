@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
 <h1 align="center">Hi 👋, I'm Arjun Ankad</h1>
-<h3 align="center">I am a junior at Texas A&M University studying Computer Science</h3>
+<h3 align="center">I am a junior at Texas A&M University studying Computer Science & Applied Mathematics</h3>
 
 - 🌱 I’m currently studying **Representation Learning and Interpretability in Reinforcement Learning**
 
